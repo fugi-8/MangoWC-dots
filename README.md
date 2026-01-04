@@ -17,4 +17,4 @@ cd
 paru -S mangowc-git librewolf-bin lf neovim fuzzel waybar btop fish mpv mako brightnessctl wireplumber pipewire pipewire-alsa pipewire-pulseaudio pipewire-jack ttf-jetbrains-mono-nerd swaybg grim slurp wl-clipboard cliphist wl-clipboard-persist kitty parallel-launcher
 
 # Reminders
-Proceed to install ly display manager, just following its guide [here](https://github.com/fairyglade/ly) depending on your distro andinit system.
+Proceed to install ly display manager, just following its guide [here](https://github.com/fairyglade/ly) depending on your distro and init system of choice.
