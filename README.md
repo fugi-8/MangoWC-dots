@@ -3,11 +3,17 @@ These are just my personal config files for [mangowc](https://github.com/DreamMa
 
 # Install
 sudo pacman -Syu
+
 sudo pacman -S base-devel git
+
 git clone https://aur.archlinux.org/paru.git
+
 cd paru
+
 sudo makepkg -si
+
 cd
+
 paru -S mangowc-git librewolf-bin lf neovim fuzzel waybar btop fish mpv mako brightnessctl wireplumber pipewire pipewire-alsa pipewire-pulseaudio pipewire-jack ttf-jetbrains-mono-nerd swaybg grim slurp wl-clipboard cliphist wl-clipboard-persist kitty parallel-launcher
 
 # Reminders
